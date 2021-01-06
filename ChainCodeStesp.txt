@@ -1,0 +1,8 @@
+Using chaincode life cycle we will follow the below procedure
+1)package chain chaincode
+2)install chaincode on each procedure
+3) get install chain code id we have two ways
+    >> docker images first code before "-" is id
+    >> peer lifecycle chaincode queryinstalled (id of installed chain code)
+3) Approve chaincode
+4)checkcommitreadiness(approval status)

@@ -1,0 +1,4 @@
+1)create channel tx
+2)create channel.block
+3)join channel
+4)update anchor peer.tx on channel
